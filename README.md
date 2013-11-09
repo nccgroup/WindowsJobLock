@@ -13,7 +13,7 @@ Released under AGPL see LICENSE for more information
 
 Overview of Windows Jobs Objects
 -------------
-Read - http://msdn.microsoft.com/en-us/library/windows/desktop/ms684161(v=vs.85).aspx
+Read - http://msdn.microsoft.com/en-us/library/windows/desktop/ms684161(v=vs.85).aspx<br>
 Chrome's use - http://src.chromium.org/viewvc/chrome/trunk/src/sandbox/win/src/job.cc
 
 What it can do
