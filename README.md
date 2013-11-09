@@ -51,7 +51,7 @@ What it can do
 
 Example
 -------------
-This example will stop you from being able to paste into Notepad or it from spawing other processes :)
+This example will stop you from being able to paste into Notepad or it from spawning other processes :)
 ```
 C:\>Win.JobLock.exe -P notepad.exe -c -l 1
 [*] A Microsoft Windows Process Lockdown Tool using Job Objects - https://github.com/nccgroup/WindowsJobLock
