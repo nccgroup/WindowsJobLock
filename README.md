@@ -1,7 +1,7 @@
 Windows Process Lockdown Using Job Objects
 ======================
 
-A collection of tools to enumerate and analyse Windows DACLs
+A Microsoft Windows Process Lockdown Tool using Job Objects 
 
 Released as open source by NCC Group Plc - http://www.nccgroup.com/
 
