@@ -165,7 +165,7 @@ BOOL BuildAndDeploy()
 		_ftprintf(stdout,L"[!] Couldn't duplicate job handle into target process due to an error %d\n",GetLastError());
 		return FALSE;
 	} else {
-		_ftprintf(stdout,L"[*] Applied UI limits to job object\n");
+		_ftprintf(stdout,L"[*] Duplicated handle of job (with restricted access) into target process!\n");
 	}
 
 	// Now assign the process to the job object
