@@ -245,7 +245,7 @@ void PrintHelp(TCHAR *strExe){
 		// JOBOBJECT_BASIC_UI_RESTRICTIONS - JOB_OBJECT_UILIMIT_GLOBALATOMS
 		fprintf (stdout,"    -a          - Prevent processes within job from accessing global atoms\n");
 		// JOBOBJECT_BASIC_UI_RESTRICTIONS - JOB_OBJECT_UILIMIT_HANDLES
-		fprintf (stdout,"    -u          - Prevent processes within job from user user handles\n");
+		fprintf (stdout,"    -u          - Prevent processes within job from using user handles\n");
 		// JOBOBJECT_BASIC_UI_RESTRICTIONS - JOB_OBJECT_UILIMIT_READCLIPBOARD
 		fprintf (stdout,"    -c          - Prevent processes within job from reading the clipboard\n");
 		// JOBOBJECT_BASIC_UI_RESTRICTIONS - JOB_OBJECT_UILIMIT_SYSTEMPARAMETERS
