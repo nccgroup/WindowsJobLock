@@ -380,9 +380,6 @@ int _tmain(int argc, _TCHAR* argv[])
 		_ftprintf(stdout,L"[*] Successfully built and deployed job object to %s!\n",strProcName);
 	}
 
-	while(1){
-		Sleep(1000);
-	}
 	return 0;
 }
 
